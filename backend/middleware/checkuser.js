@@ -24,10 +24,4 @@ const checkuser = (req, res, next) => {
 
 module.exports = checkuser;
 
-// session({
 
-//     secret:"abhay",
-//     resave:false,
-//     saveUninitialized:true,
-
-// })
